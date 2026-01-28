@@ -1,4 +1,4 @@
-# Contributing to Zhuzh Finance
+<!-- # Contributing to Zhuzh Finance
 
 Thanks for your interest in contributing.
 
@@ -18,4 +18,4 @@ Thanks for your interest in contributing.
 
 ## Code quality
 - Prefer readable, maintainable solutions over clever ones
-- Avoid leaking secrets (keys, tokens, credentials) into code or logs
+- Avoid leaking secrets (keys, tokens, credentials) into code or logs -->
